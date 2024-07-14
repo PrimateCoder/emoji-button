@@ -74,7 +74,8 @@ const DEFAULT_OPTIONS: EmojiButtonOptions = {
   style: 'native',
   twemojiOptions: {
     ext: '.svg',
-    folder: 'svg'
+    folder: 'svg',
+    base: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/'
   },
   emojisPerRow: 8,
   rows: 6,

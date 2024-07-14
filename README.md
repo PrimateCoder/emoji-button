@@ -3,6 +3,10 @@
 
 Vanilla JavaScript emoji picker 😎
 
+This fork includes fixes for [🎹 Piano | Tell](https://forum.pianotell.com).
+
+Not to self: npm install && npm run-scripts build && git add -f dist/*
+
 ## Screenshot
 
 ![Screenshot](https://user-images.githubusercontent.com/219285/88242157-690ffd80-cc5a-11ea-8b40-fc148d1f7eb7.png)
